@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#navbarSupportedContent{
+    margin-left:  50% ;
+}
+
+.container-fluid{
+    background-color: rgb(255, 251, 242);
+}
+
+#b{
+    background-color:rgb(255, 237, 201) ;
+}
+
+#b2{
+    background-color: rgb(255, 228, 217);
+    color: #f95c19 ;
+    font-weight: bold;
+}
+
+#texto{
+    color: black;
+}
+
+#btn-get {
+    background-color: #f95c19;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.container-header{
+    background-color:rgb(255, 248, 236) ;
+}
+
+.container h2{
+    color: #f95c19;
+}
+.container p{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#img{
+    text-align: center;
+}
+
+#img img{
+    width: 100%;
+}
